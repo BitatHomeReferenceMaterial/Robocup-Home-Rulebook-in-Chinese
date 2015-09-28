@@ -184,4 +184,59 @@ A.1 不同类别的技能<br>
 &nbsp;&nbsp;&nbsp;A.1.5 复杂动作规划<br>
 &nbsp;&nbsp;&nbsp;A.1.6 建图<br>
 
+---
+
+###第一章 介绍和规则<br>
+1.1 ***Robocup***<br>
+&nbsp;&nbsp;&nbsp;Robocup是一项促进人工智能、机器人以及相关领域的国际性联合项目。它尝试通过提供大范围可整合和检测的技术标准问题来发展人工智能以及智能机器研究，更多信息可在http://www.robocup.org 上找到。<br>
+1.2 ***RoboCup@Home***<br>
+&nbsp;&nbsp;&nbsp;RoboCup@Home 联盟旨在开发与未来个人家庭的高度相关的服务和辅助机器人技术。是国际上最大的自主服务机器人年度竞争，也是Robocup倡导的一部分。一套基准测试被用于评估的机器人在现实非标准化的家居环境设置中的能力与性能。焦点在如下几个方面，但不是仅限于此: 人类与机器人的交互和合作、 在动态环境中导航和定位，自然光线条件下的机器视觉和物品识别，物体操作、 适应行为、 行为一体化、 环境情报、 标准化和系统整合。这些被搭配在 RoboCup 专题讨论会。 <br>
+1.3 ***组织***<br>
+&nbsp;&nbsp;&nbsp;1.3.1 行政委员会 —  ec@robocupathome.org<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;行政委员会 (EC) 由组织受托人，以及各领域的代表组成。 @Home 联盟的成员:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dirk Holz (University of Bonn, Germany)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javier Ruiz del Solar (Department of Electric Engineering, Universidad de Chile, Chile)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maja Rudinac ( Delft University of Technology, Netherlands)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sven Wachsmuth (Bielefeld University, Germany)<br>
+&nbsp;&nbsp;&nbsp;1.3.2 技术委员会 — tc@robocupathome.org<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术委员会 (TC) 负责每个联赛的规则。2015 年 RoboCup@Home 技术委员会的成员:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kai Chen (University of Science and Technology of China, China)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caleb Rascon (Universidad Nacional Autnoma de M´exico, Mexico)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loy Van Beek (Eindhoven University of Technology, The Netherlands)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mauricio Matamoros (Delft University of Technology, The Netherlands)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术委员会还包含执行委员会的成员<br>
+&nbsp;&nbsp;&nbsp;1.3.3 组织委员会 — oc@robocupathome.org<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;组织委员会 (OC) 是组织负责比赛。2015 年RoboCup@Home 组织委员会的成员:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair: Maja Rudinac (Delft University of Technology, The Netherlands)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Local chair: Yinfeng Chen (University of Science and Technology of China, China)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Farshid Abdollahi (Qazvin Islamic Azad University, Iran)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sammy Pfeifer (Pal Robotics, Spain)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sebastian Meyer zu Borgsen (Bielefeld University, Germany)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Viktor Seib (Universitaet Koblenz-Landau, Germany)<br>
+1.4 ***基础设施***<br>
+&nbsp;&nbsp;&nbsp;1.4.1. RoboCup@Home 邮件列表<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;官方RoboCup@Home邮件列表可在 robocup-athome@lists.robocup.org 获取。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你可在 http://lists.robocup.org/listinfo.cgi/robocup-athome-robocup.org 注册入邮件列表。<br>
+&nbsp;&nbsp;&nbsp;1.4.2 RoboCup@Home 主页<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可在官方 RoboCup@Home 网址http://www.robocupathome.org 找到规则。<br>
+1.5 ***比赛***<br>
+&nbsp;&nbsp;&nbsp;比赛分为2个阶段赛和总决赛。每个阶段包括一系列在日常的生活环境中的测试。阶段I的最好队伍将参加难度更大的第II阶段。比赛的决赛由前五名团队竞争冠军。<br>
+1.6 ***奖励***<br>
+&nbsp;&nbsp;&nbsp;RoboCup@Home联赛有以下奖励<br>
+&nbsp;&nbsp;&nbsp;1.6.1.竞赛的优胜者<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将会有冠军、亚军和季军。<br>
+&nbsp;&nbsp;&nbsp;1.6.2.创新奖<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了奖励杰出技术和科学成就以及在 @Home 联赛中也一样适用的解决方案，特别创新奖将颁给参赛队之一。给 @Home 社区提供可用的机器人部件和技术的队伍先考虑。
+从 RoboCup@Home 行政委员会 (EC) 成员提出候选队伍名单。技术委员会 (TC) 选出获胜者。其团队是被提名队伍的 TC 成员不得投票。若没有突出的创新和没有提名，将不设立此奖项。<br>
+&nbsp;&nbsp;&nbsp;1.6.3.RoboZoo 的获胜者<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RoboZoo 的性能展示中的冠军将被授予特别奖。哪支团队胜出由在 RoboZoo 测试的在场观众决定，然而，对于创新奖，如果某队伍得分最高但技术委员会（TC）认为该队伍没有特别多的展示，这样的情况下，该奖不授予。<br>
+&nbsp;&nbsp;&nbsp;1.6.4.最佳测试得分证明<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在每个测试阶段 I 和阶段 II 中得分最高的团队给予最佳的测试分数证明。要想获得这一奖项，获得的分数至少为该测试总分的70%(见章节3.8)。<br> 
+&nbsp;&nbsp;&nbsp;1.6.5.最好看机器人<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RoboZoo 的外观挑战类别中的获胜队伍给予最好看机器人奖。哪支团队胜出由 RoboZoo 测试的在场观众决定。<br>
+&nbsp;&nbsp;&nbsp;1.6.6.最全功能机器人<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RoboZoo 的功能挑战类别中的获胜者给予功能最全机器人奖。哪支团队胜出由 RoboZoo 测试的在场观众决定。<br>
+
+---
+
 [1]:http://7xn1ex.com1.z0.glb.clouddn.com/Robocup_pic.png
