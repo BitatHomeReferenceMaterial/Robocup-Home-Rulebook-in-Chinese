@@ -64,11 +64,27 @@
 &nbsp;&nbsp;&nbsp;3.5.4 得分系统<br>
 &nbsp;&nbsp;&nbsp;3.5.5 公开演示<br>
 3.6 测试过程<br>
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;3.6.1 安全第一<br>
+&nbsp;&nbsp;&nbsp;3.6.2 团队的最大成员数目<br>
+&nbsp;&nbsp;&nbsp;3.6.3 公平竞赛<br>
+&nbsp;&nbsp;&nbsp;3.6.4 机器人的自主性和远程遥控<br>
+&nbsp;&nbsp;&nbsp;3.6.5 碰撞<br>
+&nbsp;&nbsp;&nbsp;3.6.6 移走机器人<br>
+&nbsp;&nbsp;&nbsp;3.6.7 开始信号<br>
+&nbsp;&nbsp;&nbsp;3.6.8 进入和离开比赛场地<br>
+&nbsp;&nbsp;&nbsp;3.6.9 手势<br>
+&nbsp;&nbsp;&nbsp;3.6.10 裁判<br>
+&nbsp;&nbsp;&nbsp;3.6.11 操作员<br>
+&nbsp;&nbsp;&nbsp;3.6.12 仲裁人<br>
+&nbsp;&nbsp;&nbsp;3.6.13 时间限制<br>
+&nbsp;&nbsp;&nbsp;3.6.14 重新开始<br>
+&nbsp;&nbsp;&nbsp;3.6.15 另一种自动语音识别：继续比赛<br>
+3.7 特殊的奖赏和处罚<br>
+&nbsp;&nbsp;&nbsp;3.7.1缺席的惩罚<br>
+&nbsp;&nbsp;&nbsp;3.7.2特殊的惩罚<br>
+&nbsp;&nbsp;&nbsp;3.7.3出色表现的奖赏<br>
+3.8 最高比赛分数证明<br>
+3.9 对组委会的总体指示<br>
 4. 启动和准备<br>
 5. 第一阶段比赛<br>
 6. 第二阶段比赛<br>
