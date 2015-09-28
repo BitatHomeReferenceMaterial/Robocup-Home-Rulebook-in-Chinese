@@ -99,7 +99,7 @@
 &nbsp;&nbsp;&nbsp;5.1.4 附加规则和注意事项<br>
 &nbsp;&nbsp;&nbsp;5.1.5 裁判和 OC 说明<br>
 &nbsp;&nbsp;&nbsp;5.1.6 得分表<br>
-5.2 基本操作和物体识别
+5.2 基本操作和物体识别<br>
 &nbsp;&nbsp;&nbsp;5.2.1 目标<br>
 &nbsp;&nbsp;&nbsp;5.2.2 注意点<br>
 &nbsp;&nbsp;&nbsp;5.2.3 启动<br>
@@ -143,10 +143,45 @@
 6. 第二阶段比赛<br>
 6.1 机器人与队伍的协作<br>
 6.2 自由挑战<br>
-&nbsp;&nbsp;&nbsp;6.2.1
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;6.2.1 任务<br>
+&nbsp;&nbsp;&nbsp;6.2.2 展示<br>
+&nbsp;&nbsp;&nbsp;6.2.3 对环境的改变<br>
+&nbsp;&nbsp;&nbsp;6.2.4 评审<br>
+&nbsp;&nbsp;&nbsp;6.2.5 附加规则和备注<br>
+6.3 餐厅<br>
+&nbsp;&nbsp;&nbsp;6.3.1 注意点<br>
+&nbsp;&nbsp;&nbsp;6.3.2 启动<br>
+&nbsp;&nbsp;&nbsp;6.3.3 任务<br>
+&nbsp;&nbsp;&nbsp;6.3.4 附加规则和备注<br>
+&nbsp;&nbsp;&nbsp;6.3.5 得分表<br>
+6.4 机器人护士<br>
+&nbsp;&nbsp;&nbsp;6.4.1 注意点<br>
+&nbsp;&nbsp;&nbsp;6.4.2 任务<br>
+&nbsp;&nbsp;&nbsp;6.4.3 附加规则备注<br>
+&nbsp;&nbsp;&nbsp;6.4.4 裁判指令<br>
+&nbsp;&nbsp;&nbsp;6.4.5 组委会指令<br>
+&nbsp;&nbsp;&nbsp;6.5.6 得分表<br>
+6.5 叫醒我测试<br>
+&nbsp;&nbsp;&nbsp;6.5.1 注意点<br>
+&nbsp;&nbsp;&nbsp;6.5.2 任务<br>
+&nbsp;&nbsp;&nbsp;6.5.3 附加规则和备注<br>
+&nbsp;&nbsp;&nbsp;6.5.4 裁判指令<br>
+&nbsp;&nbsp;&nbsp;6.5.5 组委会指令<br>
+&nbsp;&nbsp;&nbsp;6.5.6 得分表<br>
 7. 决赛<br>
+7.1 最终展示<br>
+&nbsp;&nbsp;&nbsp;7.1.1 任务<br>
+&nbsp;&nbsp;&nbsp;7.1.2 评价和得分系统<br>
+&nbsp;&nbsp;&nbsp;7.1.3 环境的改变<br>
+7.2 最终排名和获胜者<br>
+
+附录A 示例技能<br>
+A.1 不同类别的技能<br>
+&nbsp;&nbsp;&nbsp;A.1.1 复杂操作<br>
+&nbsp;&nbsp;&nbsp;A.1.2 复杂视觉识别<br>
+&nbsp;&nbsp;&nbsp;A.1.3 复杂导航<br>
+&nbsp;&nbsp;&nbsp;A.1.4 人机交互<br>
+&nbsp;&nbsp;&nbsp;A.1.5 复杂动作规划<br>
+&nbsp;&nbsp;&nbsp;A.1.6 建图<br>
 
 [1]:http://7xn1ex.com1.z0.glb.clouddn.com/Robocup_pic.png
