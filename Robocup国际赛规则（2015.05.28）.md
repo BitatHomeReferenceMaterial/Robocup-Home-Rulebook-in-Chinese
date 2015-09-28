@@ -97,14 +97,56 @@
 &nbsp;&nbsp;&nbsp;5.1.2 任务<br>
 &nbsp;&nbsp;&nbsp;5.1.3 命令和动作<br>
 &nbsp;&nbsp;&nbsp;5.1.4 附加规则和注意事项<br>
-&nbsp;&nbsp;&nbsp;5.1.5 裁判和OC说明<br>
+&nbsp;&nbsp;&nbsp;5.1.5 裁判和 OC 说明<br>
 &nbsp;&nbsp;&nbsp;5.1.6 得分表<br>
 5.2 基本操作和物体识别
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;5.2.1 目标<br>
+&nbsp;&nbsp;&nbsp;5.2.2 注意点<br>
+&nbsp;&nbsp;&nbsp;5.2.3 启动<br>
+&nbsp;&nbsp;&nbsp;5.2.4 任务<br>
+&nbsp;&nbsp;&nbsp;5.2.5 附加规则和注意事项<br>
+&nbsp;&nbsp;&nbsp;5.2.6 裁判说明<br>
+&nbsp;&nbsp;&nbsp;5.2.7 评分表<br>
+5.3 导航测试<br>
+&nbsp;&nbsp;&nbsp;5.3.1 目标<br>
+&nbsp;&nbsp;&nbsp;5.3.2 注意点<br>
+&nbsp;&nbsp;&nbsp;5.3.3 启动<br>
+&nbsp;&nbsp;&nbsp;5.3.4 任务<br>
+&nbsp;&nbsp;&nbsp;5.3.5 障碍<br>
+&nbsp;&nbsp;&nbsp;5.3.6 附加规则和注意事项<br>
+&nbsp;&nbsp;&nbsp;5.3.7 裁判说明<br>
+&nbsp;&nbsp;&nbsp;5.3.8 OC 说明<br>
+&nbsp;&nbsp;&nbsp;5.3.9 评分表<br>
+5.4 人体识别测试<br>
+&nbsp;&nbsp;&nbsp;5.4.1 目标<br>
+&nbsp;&nbsp;&nbsp;5.4.2 注意<br>
+&nbsp;&nbsp;&nbsp;5.4.3 设置<br>
+&nbsp;&nbsp;&nbsp;5.4.4 任务<br>
+&nbsp;&nbsp;&nbsp;5.4.5 附加规则和注意事项<br>
+&nbsp;&nbsp;&nbsp;5.4.6 OC 说明<br>
+&nbsp;&nbsp;&nbsp;5.4.7 评分表<br>
+5.5 机器公园<br>
+&nbsp;&nbsp;&nbsp;5.5.1 封闭场地空间大小<br>
+&nbsp;&nbsp;&nbsp;5.5.2 安全注意事项<br>
+&nbsp;&nbsp;&nbsp;5.5.3 重启和充电<br>
+&nbsp;&nbsp;&nbsp;5.5.4 附加规则和注意事项<br>
+&nbsp;&nbsp;&nbsp;5.5.5 OC 说明<br>
+&nbsp;&nbsp;&nbsp;5.5.6 评分表<br>
+5.6 语音识别及音频检测测试<br>
+&nbsp;&nbsp;&nbsp;5.6.1 目标<br>
+&nbsp;&nbsp;&nbsp;5.6.2 注意<br>
+&nbsp;&nbsp;&nbsp;5.6.3 设置<br>
+&nbsp;&nbsp;&nbsp;5.6.4 任务<br>
+&nbsp;&nbsp;&nbsp;5.6.5 附加规则和注意事项<br>
+&nbsp;&nbsp;&nbsp;5.6.6 OC 说明<br>
+&nbsp;&nbsp;&nbsp;5.6.7 评分表<br>
 6. 第二阶段比赛<br>
+6.1 机器人与队伍的协作<br>
+6.2 自由挑战<br>
+&nbsp;&nbsp;&nbsp;6.2.1
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 7. 决赛<br>
 
 [1]:http://7xn1ex.com1.z0.glb.clouddn.com/Robocup_pic.png
