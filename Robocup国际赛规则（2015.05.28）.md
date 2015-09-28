@@ -93,6 +93,14 @@
 4.4 机器人检<br>
 5. 第一阶段比赛<br>
 5.1 服务机器人的总体目标<br>
+&nbsp;&nbsp;&nbsp;5.1.1 注意点<br>
+&nbsp;&nbsp;&nbsp;5.1.2 任务<br>
+&nbsp;&nbsp;&nbsp;5.1.3 命令和动作<br>
+&nbsp;&nbsp;&nbsp;5.1.4 附加规则和注意事项<br>
+&nbsp;&nbsp;&nbsp;5.1.5 裁判和OC说明<br>
+&nbsp;&nbsp;&nbsp;5.1.6 得分表<br>
+5.2 基本操作和物体识别
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
