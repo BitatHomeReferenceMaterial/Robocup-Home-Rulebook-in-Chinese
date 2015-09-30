@@ -239,4 +239,40 @@ A.1 不同类别的技能<br>
 
 ---
 
+###第二章 比赛涉及的概念<br>
+&nbsp;&nbsp;&nbsp;一套关键标准的概念给 RoboCup@Home 比赛建立了基础。这些标准被理解为一个共同的协议，对竞争的一般概念。具体规则在章节3详细列出。<br> 
+&nbsp;&nbsp;&nbsp;2.1.***精益的规则***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了在 RoboCup@Home 比赛中允许不同、常规以及可传输的方法，规则集应尽可能精简。尽管如此，为了避免比赛规则争议，它应该是非常具体，具体到没有其他解释的余地。如果在竞争过程中有任何不符之处或多种解释，将由技术委员会 (TC) 和现场裁判员作出决定。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注:若分数已公布或分数表已被标记，TC 的决定不可撤销。<br>
+&nbsp;&nbsp;&nbsp;2.2.***自动与移动***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与 RoboCup@Home 比赛的机器必须是自主的和移动的。旨在促进移动自主服务机器人技术和自然的人机交互。因此人类不是允许直接 (远程) 控制的机器人。这也包括口头远程控制机器人。此外，具体任务不能使用开环控制解决。<br> 
+&nbsp;&nbsp;&nbsp;2.3.***对应对能力的目标***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了促进科技进步，保持竞争的有趣，场景和测试将稳步增加复杂性。虽然在开始必要的能力正在测试中，测试将在不确定性上升中越来越注重实际的应用。RoboCup@Home 将奖励有用的，健壮的，常规的，有效成本和适用的解决方案。<br>
+&nbsp;&nbsp;&nbsp;2.4.***社会意义***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;比赛和包含的测试应产生社会相关的结果。目的是说服公众了解自主机器人应用的有用性。这应该通过展示应用程序，机器人直接帮助或协助人类日常生活的情形。例子有: 个人机器人助理、 盲人导游机器人、 机器人照顾老人等。在 RoboCup@Home这种社会上相关的结果作为回报。<br>
+&nbsp;&nbsp;&nbsp;2.5.***科学价值***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RoboCup@Home 不应该只展示什么东西立马就能付诸实践，也应提出新的方法，即使他们并不完全适用，或要求一个非常特殊的配置或安装程序。所以某种高科技价值的方法被奖励。<br>
+&nbsp;&nbsp;&nbsp;2.6.***时间限制***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在为完成测试设置的时间是非常有限的情况下，允许许多参赛队伍和测试，并促进简单的程序进程。<br>
+&nbsp;&nbsp;&nbsp;2.7.***没有标准化的场景***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;竞争的方案应该是简单但高效，全球范围可用以及低成本。由于不确定性是概念的一部分，没有标准的场景提供给RoboCup@Home联赛。所以会根据举办的东道主国家提供一个典型场景。这个场景是人们常在日常生活中遇到的东西。它可以是一个家的环境，如客厅和厨房，而且办公室、 超市、 餐厅等。该场景每年会变，只要仍可以执行所需的测试。此外，测试可能发生在这个场景之外，即，在未知环境中，例如，附近的一个公共场合。<br> 
+&nbsp;&nbsp;&nbsp;2.8.***吸引力***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;竞争应该能吸引观众和公众。所以应该奖励高吸引力和有创意一种方法。<br>
+&nbsp;&nbsp;&nbsp;2.9.***社区***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虽然在比赛中互相竞争，但希望借助RoboCup@Home联赛来合作和交流知识，共同推进技术。可以使用 RoboCup@Home 邮件列表，列表中有各小组联系方式，可相互联系，讨论联赛具体问题比如规则的变化，新测试提议等。每支队伍将通过团队的网站分享有关技术、 科学 (和相关的团队) 资料那里和其团队描述文件 (见章节 3.1.4)。所有团队受都邀提交 RoboCup 专题讨论会伴随年度机器人世界锦标赛的相关研究论文。<br>
+&nbsp;&nbsp;&nbsp;2.10.***所需的能力***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是 RoboCup@Home 中的测试将会集中于当前的所需技能的列表<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在动态环境下导航<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;快速和容易校准和安装导航，最终目标是让机器人跳出框运作<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物体识别<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物体操纵<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;检测和识别的人类<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自然人-机器人互动<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;语音识别<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;手势识别<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机器人应用， RoboCup@Home 针对机器人在日常生活中的应用<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;环境的智能，例如，与周边设备沟通，得到从互联网获取信息<br>
+
+---
+
 [1]:http://7xn1ex.com1.z0.glb.clouddn.com/Robocup_pic.png
