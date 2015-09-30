@@ -5,7 +5,7 @@ Chinese translation of the Robocup@Home Rulebook (http://www.robocupathome.org/r
 
 Robocup@Home 国际赛规则中文翻译 当前版本：2015.05.28（持续更新）
 
-北京理工大学 [BIT@Home][3] 家庭组对 Robocup@Home 的国际赛规则进翻译，力求做到真实、准确、完善，希望可以方便国内参赛队伍对规则的理解。如有勘误欢迎指正，[点此][2]提问。如有兴趣，非常欢迎参与到翻译工作中来。
+北京理工大学 [BIT@Home][3] 家庭组对 Robocup@Home 的国际赛规则进行翻译，力求做到真实、准确、完善，希望可以方便国内参赛队伍对规则的理解。如有勘误欢迎指正，[点此][2]提问。如有兴趣，非常欢迎参与到翻译工作中来。
 
 团队联系方式：public@bitathome.org
 
