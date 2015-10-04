@@ -275,4 +275,74 @@ A.1 不同类别的技能<br>
 
 ---
 
+###第三章 总体规则及条例<br>
+&nbsp;&nbsp;&nbsp;本节所述内容为RoboCup@Home的总体规则及条例。在本节中的每一个规则可以被认为是隐式地包含术语“除非声明”，也就是说在规则以外额外增加的规则的优先级将高于本节所述的一般规则。<br>
+&nbsp;&nbsp;&nbsp;3.1. ***团队注册和资格认证***<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1. 团队注册和资格认证<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每年参加比赛的这一阶段有四个过程：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.参加比赛的意图(可选)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.预注册<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.资格声明<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.最终登记为合格的团队<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;过程1和2将由一个RoboCup@Home邮件列表来宣布。预先注册需要团队的描述文档、认证视频和团队网站。<br>
+&nbsp;&nbsp;&nbsp;3.1.2 资格认证视频<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;资格认证视频将作为团队能够运作硬件的证明，每个队伍提供的视频至少需要展示机器人具备以下的几方面能力（最低要求）:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•人机交互<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•导航与避障(安全、室内可避障)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•物体检测和操纵<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•人物检测<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•语音识别       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•语音合成(清晰、响亮)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;推荐展展示以下能力<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•活动识别<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•复杂的语音辨认<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•复杂的动作计划<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•手势识别<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于认证视频，我们将能够展示机器人至少能成功的解决去年的一个测试或者现在的规则中的测试（不包括能力测试）作为资格确认。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于机器人移动缓慢，希望能够让视频适当提速。当给视频提速时，请指明提速倍数用(例如， 2x,5X,10X)格式列入说明书。这一点同样适用于视频中较缓慢的应当提速的部分。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们支持每支队伍制作“自我阐述”视频给大部分观众阐述机器人如何完成复杂任务。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请注意视频不能比平均测试时间长。（最长30分钟）<br>
+&nbsp;&nbsp;&nbsp;3.1.3. 团队网站<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;团队网站应该设计成面向更宽泛的观众，同时要注意网站中要包括科学材料的使用以及开源代码。要求如下：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.多媒体:请尽可能多的包括机器人的照片和视频。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.语言: 团队网站必须用英语。其他语言也可以可用的,但是英语必须默认语言。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.团队:列出团队成员并包括简短的介绍。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.RoboCup:      有Robocup网站链接和以前团队参与的RoboCup信息。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.科学方法:     包括研究团队网站,描述研究的方法和科学成就的信息。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.出版物:       5年内相关的出版物。可下载的出版物在资格认证过程中得分更高。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.开源材料:     图纸、设计、存储库或任何类型为联赛做出贡献将获得更高的分数。<br>
+&nbsp;&nbsp;&nbsp;3.1.4.团队描述文档<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;团队描述文档（The team description paper TDP）应该包含团队的主要研究，包括科学的贡献、目标、研究范围以及成果。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最好是,它还应该包含以下几项：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•研究的中心和研究领域的贡献<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•创新技术(如果有的话),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•对其他研究小组系统的重用性<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•在现实世界中机器人的适用性<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•机器人的照片<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在最后一页，在引用之后要包括：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•团队的名称<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•联系信息<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•网站<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•团队成员<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•机器人的照片<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•描述使用的硬件<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—提供简洁的列表。(2DOF head,2 x7DOF anthropomorphic arms,Pioneer base 等)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—不需要解释你的硬件是如何工作的除非它是你研究的一部分。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硬件的描述<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— 提供一个简洁的列表。（ROS,ROS nav2d,Object Recognition Kitchen,OpenCV,等等）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— 不需要解释你的软件运作除非这是你研究的一部分。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;团队描述文档（TDP）必须是英文的，8页以上的长度，格式要根据 RoboCup International Symposium 的要求。描述有关技术以及科学突破的细节。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请注意，在鉴定资格过程中，团队描述文档（TDP）的得分将依据科学价值、创意和贡献给出。<br>
+&nbsp;&nbsp;&nbsp;3.1.5. 资格<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在评定资格过程中选择将由组委会(OC)考虑和评估决策过程是:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•团队网站上的内容,有出版物和开放内容将得分更高<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•能力资格视频所示的数量<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•复杂的任务资格视频所示<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•科学价值,新奇和贡献的团队描述。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(额外的)评估标准是:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•在先前比赛中的表现<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•相关的科学出版物和科学贡献<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•对RoboCup@Home league的贡献<br>
+
+---
 [1]:http://7xn1ex.com1.z0.glb.clouddn.com/Robocup_pic.png
